@@ -1,0 +1,6 @@
+POST localhost:4000/set-user-data
+Content-Type: application/json
+{
+    "user": 60000,
+    "time": "2021-10-13T10:47:17.398Z"
+}
